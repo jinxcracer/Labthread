@@ -1,0 +1,10 @@
+C:\Users\jinsa\source\repos\FrmBasicThread\FrmBasicThread\bin\Debug\FrmBasicThread.exe.config
+C:\Users\jinsa\source\repos\FrmBasicThread\FrmBasicThread\bin\Debug\FrmBasicThread.exe
+C:\Users\jinsa\source\repos\FrmBasicThread\FrmBasicThread\bin\Debug\FrmBasicThread.pdb
+C:\Users\jinsa\source\repos\FrmBasicThread\FrmBasicThread\obj\Debug\FrmBasicThread.csproj.AssemblyReference.cache
+C:\Users\jinsa\source\repos\FrmBasicThread\FrmBasicThread\obj\Debug\FrmBasicThread.Form1.resources
+C:\Users\jinsa\source\repos\FrmBasicThread\FrmBasicThread\obj\Debug\FrmBasicThread.Properties.Resources.resources
+C:\Users\jinsa\source\repos\FrmBasicThread\FrmBasicThread\obj\Debug\FrmBasicThread.csproj.GenerateResource.cache
+C:\Users\jinsa\source\repos\FrmBasicThread\FrmBasicThread\obj\Debug\FrmBasicThread.csproj.CoreCompileInputs.cache
+C:\Users\jinsa\source\repos\FrmBasicThread\FrmBasicThread\obj\Debug\FrmBasicThread.exe
+C:\Users\jinsa\source\repos\FrmBasicThread\FrmBasicThread\obj\Debug\FrmBasicThread.pdb
